@@ -177,6 +177,10 @@ Key references for implemented methods:
 - Roy, R., & Kailath, T. (1989). ESPRIT-estimation of signal parameters via rotational invariance techniques. IEEE Transactions on Acoustics, Speech, and Signal Processing.
 - Stoica, P., & Nehorai, A. (1989). MUSIC, maximum likelihood, and Cramer-Rao bound. IEEE Transactions on Acoustics, Speech, and Signal Processing.
 
+## Publication
+
+See "Direction of Arrival Estimation: A Tutorial Survey of Classical and Modern Methods" @ https://arxiv.org/pdf/2508.11675  
+
 ## 🤝 Acknowledgments
 
 This educational repository is designed to help researchers and students understand DOA estimation methods through clean implementations and comprehensive tutorials.
