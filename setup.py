@@ -10,12 +10,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="doa-methods",
     version="1.0.0",
-    author="DOA Methods Tutorial",
-    author_email="",
+    author="Amgad A. Salama, Ph.D.",
+    author_email="amgad.salama@acm.org",
     description="Educational Python implementation of Direction of Arrival estimation methods",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/username/doa-methods",
+    url="https://github.com/AmgadSalaam/doa-methods",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
